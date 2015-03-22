@@ -1,4 +1,4 @@
-## The functions defined herein faciliate the caching
+## The functions defined herein facilitate the caching
 ## the inverse of a matrix.
 ## Matrix inversion is usually a costly computation and 
 ## there may be some benefit to caching the inverse of 
